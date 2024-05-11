@@ -1,0 +1,32 @@
+{
+    "halls": [
+        {
+            "name": "Hall 1",
+            "capacity": 200
+        },
+        {
+            "name": "Hall 2",
+            "capacity": 200
+        },
+        {
+            "name": "Hall 17B",
+            "capacity": 500
+        },
+        {
+            "name": "Hall 17C",
+            "capacity": 500
+        },
+        {
+            "name": "Hall 15A",
+            "capacity": 500
+        },
+        {
+            "name": "Hall 6A",
+            "capacity": 500
+        },
+        {
+            "name": "Hall 6B",
+            "capacity": 500
+        }
+    ]
+}

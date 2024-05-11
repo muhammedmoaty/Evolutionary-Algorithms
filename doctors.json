@@ -1,0 +1,175 @@
+{
+    "doctors": [
+        {
+            "name": "Dr. Doaa Gamal",
+            "courses": [
+                "MA113"
+            ],
+            "label": 6
+        },
+        {
+            "name": "Dr. Ebrahim AbdulLatif",
+            "courses": [
+                "MA112"
+            ],
+            "label": 7
+        },
+        {
+            "name": "Dr. Azza Mohamed",
+            "courses": [
+                "IT111"
+            ],
+            "label": 5
+        },
+        {
+            "name": "Dr. Mahmoud El Khouly",
+            "courses": [
+                "IT223"
+            ],
+            "label": 12
+        },
+        {
+            "name": "Dr. Soha Ahmed",
+            "courses": [
+                "CS112",
+                "CS419"
+            ],
+            "label": 18
+        },
+        {
+            "name": "Dr. Amr Ghoneim",
+            "courses": [
+                "CS251",
+                "AI421"
+            ],
+            "label": 4
+        },
+        {
+            "name": "Dr. Ahmed Hesham",
+            "courses": [
+                "CS241",
+                "AI370",
+                "CS405"
+            ],
+            "label": 2
+        },
+        {
+            "name": "Dr. Safaa Magdy",
+            "courses": [
+                "IS240"
+            ],
+            "label": 16
+        },
+        {
+            "name": "Dr. Rowaida Sadek",
+            "courses": [
+                "IT222"
+            ],
+            "label": 15
+        },
+        {
+            "name": "Dr. Hossam Shamardan",
+            "courses": [
+                "IT241",
+                "IT312",
+                "IT415"
+            ],
+            "label": 10
+        },
+        {
+            "name": "Dr. Wessam El Behedy",
+            "courses": [
+                "CS316"
+            ],
+            "label": 21
+        },
+        {
+            "name": "Dr. Ahmed Mahsoub",
+            "courses": [
+                "ST122"
+            ],
+            "label": 3
+        },
+        {
+            "name": "Dr. Yasser Hefny",
+            "courses": [
+                "IT342",
+                "IT443"
+            ],
+            "label": 22
+        },
+        {
+            "name": "Dr. Enjy Salah",
+            "courses": [
+                "HU112"
+            ],
+            "label": 8
+        },
+        {
+            "name": "Dr. Sylvia",
+            "courses": [
+                "HU323"
+            ],
+            "label": 19
+        },
+        {
+            "name": "Dr. Abdullah Yassen",
+            "courses": [
+                "IT423",
+                "IS435"
+            ],
+            "label": 0
+        },
+        {
+            "name": "Dr. Islam Gamal",
+            "courses": [
+                "CS460",
+                "AI450"
+            ],
+            "label": 11
+        },
+        {
+            "name": "Dr. Mohamed Moraey",
+            "courses": [
+                "IS451"
+            ],
+            "label": 14
+        },
+        {
+            "name": "Dr. Hanan Fahmy",
+            "courses": [
+                "IS345"
+            ],
+            "label": 9
+        },
+        {
+            "name": "Dr. Salwa Osama",
+            "courses": [
+                "CS352"
+            ],
+            "label": 17
+        },
+        {
+            "name": "Dr. Wael Abbas",
+            "courses": [
+                "IS352",
+                "IS422"
+            ],
+            "label": 20
+        },
+        {
+            "name": "Dr. Mohamed El Saeed",
+            "courses": [
+                "IT331"
+            ],
+            "label": 13
+        },
+        {
+            "name": "Dr. Ahmed El Sayed",
+            "courses": [
+                "IS333"
+            ],
+            "label": 1
+        }
+    ]
+}

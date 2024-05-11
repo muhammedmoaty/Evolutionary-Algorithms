@@ -1,0 +1,277 @@
+[
+    {
+        "Level 1": [
+            {
+                "name": "General",
+                "courses": [
+                    {
+                        "doctor": "Dr. Doaa Gamal",
+                        "course": "MA113",
+                        "encoded_label": 31
+                    },
+                    {
+                        "doctor": "Dr. Ebrahim AbdulLatif",
+                        "course": "MA112",
+                        "encoded_label": 30
+                    },
+                    {
+                        "doctor": "Dr. Azza Mohamed",
+                        "course": "IT111",
+                        "encoded_label": 20
+                    },
+                    {
+                        "doctor": "Dr. Mahmoud El Khouly",
+                        "course": "IT223",
+                        "encoded_label": 22
+                    },
+                    {
+                        "doctor": "Dr. Soha Ahmed",
+                        "course": "CS112",
+                        "encoded_label": 3
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Mahsoub",
+                        "course": "ST122",
+                        "encoded_label": 32
+                    }
+                ]
+            }
+        ],
+        "Level 2": [
+            {
+                "name": "General",
+                "courses": [
+                    {
+                        "doctor": "Dr. Amr Ghoneim",
+                        "course": "CS251",
+                        "encoded_label": 5
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Hesham",
+                        "course": "CS241",
+                        "encoded_label": 4
+                    },
+                    {
+                        "doctor": "Dr. Safaa Magdy",
+                        "course": "IS240",
+                        "encoded_label": 13
+                    },
+                    {
+                        "doctor": "Dr. Rowaida Sadek",
+                        "course": "IT222",
+                        "encoded_label": 21
+                    },
+                    {
+                        "doctor": "Dr. Hossam Shamardan",
+                        "course": "IT241",
+                        "encoded_label": 23
+                    },
+                    {
+                        "doctor": "Dr. Wessam El Behedy",
+                        "course": "CS316",
+                        "encoded_label": 6
+                    }
+                ]
+            }
+        ],
+        "Level 3": [
+            {
+                "name": "IT",
+                "courses": [
+                    {
+                        "doctor": "Dr. Hossam Shamardan",
+                        "course": "IT312",
+                        "encoded_label": 24
+                    },
+                    {
+                        "doctor": "Dr. Hanan Fahmy",
+                        "course": "IS345",
+                        "encoded_label": 15
+                    },
+                    {
+                        "doctor": "Dr. Abdullah Yassen",
+                        "course": "IT423",
+                        "encoded_label": 28
+                    },
+                    {
+                        "doctor": "Dr. Yasser Hefny",
+                        "course": "IT342",
+                        "encoded_label": 26
+                    },
+                    {
+                        "doctor": "Dr. Salwa Osama",
+                        "course": "CS352",
+                        "encoded_label": 7
+                    },
+                    {
+                        "doctor": "Dr. Mohamed El Saeed",
+                        "course": "IT331",
+                        "encoded_label": 25
+                    }
+                ]
+            },
+            {
+                "name": "AI",
+                "courses": [
+                    {
+                        "doctor": "Dr. Hossam Shamardan",
+                        "course": "IT312",
+                        "encoded_label": 24
+                    },
+                    {
+                        "doctor": "Dr. Hossam Shamardan",
+                        "course": "IT415",
+                        "encoded_label": 27
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Mahsoub",
+                        "course": "ST122",
+                        "encoded_label": 32
+                    },
+                    {
+                        "doctor": "Dr. Amr Ghoneim",
+                        "course": "AI421",
+                        "encoded_label": 1
+                    },
+                    {
+                        "doctor": "Dr. Islam Gamal",
+                        "course": "AI450",
+                        "encoded_label": 2
+                    },
+                    {
+                        "doctor": "Dr. Yasser Hefny",
+                        "course": "IT443",
+                        "encoded_label": 29
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Hesham",
+                        "course": "AI370",
+                        "encoded_label": 0
+                    }
+                ]
+            },
+            {
+                "name": "IS",
+                "courses": [
+                    {
+                        "doctor": "Dr. Hanan Fahmy",
+                        "course": "IS345",
+                        "encoded_label": 15
+                    },
+                    {
+                        "doctor": "Dr. Mohamed Moraey",
+                        "course": "IS451",
+                        "encoded_label": 19
+                    },
+                    {
+                        "doctor": "Dr. Wael Abbas",
+                        "course": "IS352",
+                        "encoded_label": 16
+                    },
+                    {
+                        "doctor": "Dr. Salwa Osama",
+                        "course": "CS352",
+                        "encoded_label": 7
+                    },
+                    {
+                        "doctor": "Dr. Abdullah Yassen",
+                        "course": "IS435",
+                        "encoded_label": 18
+                    },
+                    {
+                        "doctor": "Dr. Abdullah Yassen",
+                        "course": "IT423",
+                        "encoded_label": 28
+                    },
+                    {
+                        "doctor": "Dr. Ahmed El Sayed",
+                        "course": "IS333",
+                        "encoded_label": 14
+                    }
+                ]
+            },
+            {
+                "name": "CS",
+                "courses": [
+                    {
+                        "doctor": "Dr. Salwa Osama",
+                        "course": "CS352",
+                        "encoded_label": 7
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Mahsoub",
+                        "course": "ST122",
+                        "encoded_label": 32
+                    },
+                    {
+                        "doctor": "Dr. Mohamed El Saeed",
+                        "course": "IT331",
+                        "encoded_label": 25
+                    },
+                    {
+                        "doctor": "Dr. Soha Ahmed",
+                        "course": "CS419",
+                        "encoded_label": 9
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Hesham",
+                        "course": "CS405",
+                        "encoded_label": 8
+                    },
+                    {
+                        "doctor": "Dr. Abdullah Yassen",
+                        "course": "IT423",
+                        "encoded_label": 28
+                    },
+                    {
+                        "doctor": "Dr. Islam Gamal",
+                        "course": "CS460",
+                        "encoded_label": 10
+                    }
+                ]
+            }
+        ],
+        "Level 4": [
+            {
+                "name": "General",
+                "courses": [
+                    {
+                        "doctor": "Dr. Mohamed Moraey",
+                        "course": "IS451",
+                        "encoded_label": 19
+                    },
+                    {
+                        "doctor": "Dr. Ahmed Mahsoub",
+                        "course": "ST122",
+                        "encoded_label": 32
+                    },
+                    {
+                        "doctor": "Dr. Abdullah Yassen",
+                        "course": "IS435",
+                        "encoded_label": 18
+                    },
+                    {
+                        "doctor": "Dr. Yasser Hefny",
+                        "course": "IT443",
+                        "encoded_label": 29
+                    },
+                    {
+                        "doctor": "Dr. Wael Abbas",
+                        "course": "IS422",
+                        "encoded_label": 17
+                    },
+                    {
+                        "doctor": "Dr. Sylvia",
+                        "course": "HU323",
+                        "encoded_label": 12
+                    },
+                    {
+                        "doctor": "Dr. Enjy Salah",
+                        "course": "HU112",
+                        "encoded_label": 11
+                    }
+                ]
+            }
+        ]
+    }
+]

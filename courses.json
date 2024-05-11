@@ -1,0 +1,202 @@
+{
+    "courses": [
+        {
+            "code": "MA113",
+            "name": "Math 2",
+            "doctor": "Dr. Doaa Gamal",
+            "label": 31
+        },
+        {
+            "code": "MA112",
+            "name": "Discrete Math",
+            "doctor": "Dr. Ebrahim AbdulLatif",
+            "label": 30
+        },
+        {
+            "code": "IT111",
+            "name": "Electronics",
+            "doctor": "Dr. Azza Mohamed",
+            "label": 20
+        },
+        {
+            "code": "IT223",
+            "name": "Internet Technology",
+            "doctor": "Dr. Mahmoud El Khouly",
+            "label": 22
+        },
+        {
+            "code": "CS112",
+            "name": "Programming Language 1",
+            "doctor": "Dr. Soha Ahmed",
+            "label": 3
+        },
+        {
+            "code": "CS251",
+            "name": "Software Engineering 1",
+            "doctor": "Dr. Amr Ghoneim",
+            "label": 5
+        },
+        {
+            "code": "CS241",
+            "name": "Operating Systems 1",
+            "doctor": "Dr. Ahmed Hesham",
+            "label": 4
+        },
+        {
+            "code": "IS240",
+            "name": "Operations Research",
+            "doctor": "Dr. Safaa Magdy",
+            "label": 13
+        },
+        {
+            "code": "IT222",
+            "name": "Network",
+            "doctor": "Dr. Rowaida Sadek",
+            "label": 21
+        },
+        {
+            "code": "IT241",
+            "name": "Signals",
+            "doctor": "Dr. Hossam Shamardan",
+            "label": 23
+        },
+        {
+            "code": "CS316",
+            "name": "Algorithms",
+            "doctor": "Dr. Wessam El Behedy",
+            "label": 6
+        },
+        {
+            "code": "IT312",
+            "name": "Microprocessors",
+            "doctor": "Dr. Hossam Shamardan",
+            "label": 24
+        },
+        {
+            "code": "ST122",
+            "name": "Statistics 2",
+            "doctor": "Dr. Ahmed Mahsoub",
+            "label": 32
+        },
+        {
+            "code": "IT342",
+            "name": "Pattern Recognition",
+            "doctor": "Dr. Yasser Hefny",
+            "label": 26
+        },
+        {
+            "code": "HU112",
+            "name": "English 2",
+            "doctor": "Dr. Enjy Salah",
+            "label": 11
+        },
+        {
+            "code": "HU323",
+            "name": "Accounting",
+            "doctor": "Dr. Sylvia",
+            "label": 12
+        },
+        {
+            "code": "IT415",
+            "name": "Robotics",
+            "doctor": "Dr. Hossam Shamardan",
+            "label": 27
+        },
+        {
+            "code": "AI421",
+            "name": "Evolutionary Algorithms",
+            "doctor": "Dr. Amr Ghoneim",
+            "label": 1
+        },
+        {
+            "code": "AI370",
+            "name": "Advanced Machine Learning",
+            "doctor": "Dr. Ahmed Hesham",
+            "label": 0
+        },
+        {
+            "code": "CS405",
+            "name": "Theory of Computation",
+            "doctor": "Dr. Ahmed Hesham",
+            "label": 8
+        },
+        {
+            "code": "IT423",
+            "name": "Internet Security",
+            "doctor": "Dr. Abdullah Yassen",
+            "label": 28
+        },
+        {
+            "code": "CS460",
+            "name": "Distributed Systems",
+            "doctor": "Dr. Islam Gamal",
+            "label": 10
+        },
+        {
+            "code": "IS451",
+            "name": "Decision Support Systems",
+            "doctor": "Dr. Mohamed Moraey",
+            "label": 19
+        },
+        {
+            "code": "IS345",
+            "name": "Internet Applications",
+            "doctor": "Dr. Hanan Fahmy",
+            "label": 15
+        },
+        {
+            "code": "CS352",
+            "name": "Software Engineering 2",
+            "doctor": "Dr. Salwa Osama",
+            "label": 7
+        },
+        {
+            "code": "IS352",
+            "name": "Software Analysis 2",
+            "doctor": "Dr. Wael Abbas",
+            "label": 16
+        },
+        {
+            "code": "IS435",
+            "name": "Information Centres Management",
+            "doctor": "Dr. Abdullah Yassen",
+            "label": 18
+        },
+        {
+            "code": "AI450",
+            "name": "Natural Language Processing",
+            "doctor": "Dr. Islam Gamal",
+            "label": 2
+        },
+        {
+            "code": "IT443",
+            "name": "Speech Processing",
+            "doctor": "Dr. Yasser Hefny",
+            "label": 29
+        },
+        {
+            "code": "CS419",
+            "name": "Compilers",
+            "doctor": "Dr. Soha Ahmed",
+            "label": 9
+        },
+        {
+            "code": "IS422",
+            "name": "Data Warehouses",
+            "doctor": "Dr. Wael Abbas",
+            "label": 17
+        },
+        {
+            "code": "IT331",
+            "name": "Graphics",
+            "doctor": "Dr. Mohamed El Saeed",
+            "label": 25
+        },
+        {
+            "code": "IS333",
+            "name": "Management Information Systems",
+            "doctor": "Dr. Ahmed El Sayed",
+            "label": 14
+        }
+    ]
+}
